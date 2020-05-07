@@ -5,8 +5,8 @@ Workspace Opener - A Simple Python GUI App!
 
 ## Introduction
 Python 3.8.2 Download:
-https://www.python.org/downloads/windows/
-https://www.python.org/downloads/mac-osx/
+* https://www.python.org/downloads/windows/
+* https://www.python.org/downloads/mac-osx/
 
 Setup:
 - run ```python app.py```
